@@ -1,18 +1,11 @@
-# Authors
+# This file lists all the authors that can be used in the site.
+# The key is the author's name (or a short identifier).
+# The value is a map of author details.
+# The `name` key is the author's full name.
+# The `affiliation` key is the author's affiliation.
+# The `orcid` key is the author's ORCID iD (optional).
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Junteng Liu:
+  name: Junteng Liu
+  affiliation: Hong Kong University of Science and Technology (HKUST)
+  email: jliugi@connect.ust.hk
