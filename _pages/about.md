@@ -7,28 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), supervised by [Professor Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning, with particular interests in **LLM Reasoning and Reinforcement Learning**, **Hallucination in Vision-Language Models (VLMs)**, and **LLM truthfulness and Interpretability**.
+I am a first-year PhD candidate at the HKUST NLP Group. My research focuses on natural language processing and machine learning.
 
-I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. During my undergraduate studies, I was also advised by Professor Junxian He.
+My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
+
+I graduated from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 ## Research Experience
 
-- **Research Intern, MINIMAX** (February 2025 - Present)
-- **Research Intern, Tencent WXG** (June 2024 - September 2024), advised by Zifei Shan
-- **Research Intern, Shanghai AI Lab** (June 2023 - December 2023), advised by Prof. Yu Cheng
+- Research Intern at MINIMAX (February 2025 - Present)
+- Research Intern at Tencent WXG (June 2024 - September 2024)
+- Research Intern at Shanghai AI Lab (June 2023 - December 2023)
 
 ## Education
 
-- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 - Present
-- **B.Eng.**, Shanghai Jiao Tong University, 2020 - 2024
+- Ph.D. in Computer Science (2024-Present) at Hong Kong University of Science and Technology
+- B.Eng. (2020-2024) at Shanghai Jiao Tong University
+
+## Publications
+
+- Published 'SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond' (2025) - First author
+- Published 'On the Perception Bottleneck of VLMs for Chart Understanding' (2025) - First author
+- Published 'On the Universal Truthfulness Hyperplane Inside LLMs' at EMNLP 2024 - First author
+- Co-authored 'In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation' at ICML 2024
+- Co-authored 'C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models' at NeurIPS 2023
+- Co-authored 'Composing Parameter-Efficient Modules with Arithmetic Operations' at NeurIPS 2023
 
 ## Honors
 
-- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+- Received Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
 
 ## Contact
 
-- Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
-- GitHub: [Vicent0205](https://github.com/Vicent0205)
-- Google Scholar: [Junteng Liu](https://scholar.google.com/citations?hl=en&amp;user=tbK9jl4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate)
-- X / Twitter: [@junteng88716710](https://x.com/junteng88716710)
+- Email: jliugi@connect.ust.hk
+- GitHub: Vicent0205 (https://github.com/Vicent0205)
+- Google Scholar profile: https://scholar.google.com/citations?hl=en&amp;user=tbK9jl4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate
+- X (Twitter) account: @junteng88716710
